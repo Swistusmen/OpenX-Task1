@@ -1,4 +1,4 @@
-# OpenX-Task1
+# Task1
 Rozwiązany wariant 1 zadania rekrutacyjnego
 
 Uwagi odnośnie działania:
