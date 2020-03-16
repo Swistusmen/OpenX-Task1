@@ -8,3 +8,5 @@ Uwagi odnośnie działania:
   
   -nie ma jawnie zaimplementowanej opcji usuwania, jednak węzeł A można nadpisać nowym, co wiąze się z usunięciem poddrzewa węzła A
   
+  -przy testach, komunikaty o błędach będą zapisane do pliku dane.txt
+  
